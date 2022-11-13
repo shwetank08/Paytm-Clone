@@ -7,7 +7,7 @@
 
 [Paytm Original Website Link](https://paytm.com)
 
-[Deployed Project Link](https://paytm-clone-shwetank.netlify.app/)
+[Deployed Project Link](https://shwetank-payt-clone.netlify.app/)
 
 ## TechStack Used
     - HTML
